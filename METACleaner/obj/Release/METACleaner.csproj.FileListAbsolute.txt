@@ -1,0 +1,16 @@
+D:\projects\METACleaner\METACleaner\bin\Release\METACleaner.exe.config
+D:\projects\METACleaner\METACleaner\bin\Release\METACleaner.exe
+D:\projects\METACleaner\METACleaner\bin\Release\METACleaner.pdb
+D:\projects\METACleaner\METACleaner\obj\Release\METACleaner.csproj.AssemblyReference.cache
+D:\projects\METACleaner\METACleaner\obj\Release\MainWindow.g.cs
+D:\projects\METACleaner\METACleaner\obj\Release\App.g.cs
+D:\projects\METACleaner\METACleaner\obj\Release\METACleaner_MarkupCompile.cache
+D:\projects\METACleaner\METACleaner\obj\Release\METACleaner_MarkupCompile.lref
+D:\projects\METACleaner\METACleaner\obj\Release\App.baml
+D:\projects\METACleaner\METACleaner\obj\Release\MainWindow.baml
+D:\projects\METACleaner\METACleaner\obj\Release\METACleaner.g.resources
+D:\projects\METACleaner\METACleaner\obj\Release\METACleaner.Properties.Resources.resources
+D:\projects\METACleaner\METACleaner\obj\Release\METACleaner.csproj.GenerateResource.cache
+D:\projects\METACleaner\METACleaner\obj\Release\METACleaner.csproj.CoreCompileInputs.cache
+D:\projects\METACleaner\METACleaner\obj\Release\METACleaner.exe
+D:\projects\METACleaner\METACleaner\obj\Release\METACleaner.pdb

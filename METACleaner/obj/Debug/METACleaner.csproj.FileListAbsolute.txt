@@ -1,0 +1,16 @@
+D:\projects\METACleaner\METACleaner\bin\Debug\METACleaner.exe.config
+D:\projects\METACleaner\METACleaner\bin\Debug\METACleaner.exe
+D:\projects\METACleaner\METACleaner\bin\Debug\METACleaner.pdb
+D:\projects\METACleaner\METACleaner\obj\Debug\METACleaner.csproj.AssemblyReference.cache
+D:\projects\METACleaner\METACleaner\obj\Debug\MainWindow.g.cs
+D:\projects\METACleaner\METACleaner\obj\Debug\App.g.cs
+D:\projects\METACleaner\METACleaner\obj\Debug\METACleaner_MarkupCompile.cache
+D:\projects\METACleaner\METACleaner\obj\Debug\METACleaner_MarkupCompile.lref
+D:\projects\METACleaner\METACleaner\obj\Debug\App.baml
+D:\projects\METACleaner\METACleaner\obj\Debug\MainWindow.baml
+D:\projects\METACleaner\METACleaner\obj\Debug\METACleaner.g.resources
+D:\projects\METACleaner\METACleaner\obj\Debug\METACleaner.Properties.Resources.resources
+D:\projects\METACleaner\METACleaner\obj\Debug\METACleaner.csproj.GenerateResource.cache
+D:\projects\METACleaner\METACleaner\obj\Debug\METACleaner.csproj.CoreCompileInputs.cache
+D:\projects\METACleaner\METACleaner\obj\Debug\METACleaner.exe
+D:\projects\METACleaner\METACleaner\obj\Debug\METACleaner.pdb
